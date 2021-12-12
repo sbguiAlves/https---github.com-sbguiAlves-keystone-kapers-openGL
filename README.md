@@ -1,7 +1,7 @@
 # Keystone Kapers no OpenGL
 
 <h1 align="center">
-  <img alt="Keystone-openGL" title="Keystone-Kapers-openGL" src="" />
+  <img alt="Keystone-openGL" title="Keystone-Kapers-openGL" src="./kkGame.png" />
 </h1>
 
 - Trabalho avaliativo para a disciplina de Computação Gráfica.
